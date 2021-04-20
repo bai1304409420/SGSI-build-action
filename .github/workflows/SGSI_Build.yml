@@ -11,7 +11,7 @@ env:
   ZIP_NAME: XT1980-3_FOLES_RETCA_10_QPFS30.130-15-10-13_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
   OS_TYPE: moto
   BUILD_TYPE: 'ab'
-  REPACK_NAME: z4.zip
+  REPACK_NAME: test_action.zip
   VERSION: 10
   upload_WeTransfer: 'true'
   upload_action-gh-release: 'false'
