@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip
-  ZIP_NAME: test.zip
-  OS_TYPE: Pixel
+  ROM_URL: https://mirrors.lolinet.com/firmware/moto/foles/official/RETCA/XT1980-3_FOLES_RETCA_10_QPFS30.130-15-10-13_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+  ZIP_NAME: XT1980-3_FOLES_RETCA_10_QPFS30.130-15-10-13_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+  OS_TYPE: moto
   BUILD_TYPE: 'ab'
-  REPACK_NAME: test_action.zip
-  VERSION: 12
+  REPACK_NAME: moto z4.zip
+  VERSION: 10
   upload_WeTransfer: 'true'
   upload_action-gh-release: 'false'
   SETUP: 'true'
