@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: https://mirrors.lolinet.com/firmware/moto/bali/official/RETAIL/BALI_RETAIL_9.0_POAS29.550-132-22_2110_20211015_user_SIGN_XT2029-2_SVC.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/moto/foles/official/AMZ/XT1980-3_FOLES_AMZ_10_QPFS30.130-15-11-19_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
   ZIP_NAME: test.zip
-  OS_TYPE: moto
+  OS_TYPE: Generic
   BUILD_TYPE: 'ab'
   REPACK_NAME: test_action.zip
-  VERSION: 9
+  VERSION: 10
   upload_WeTransfer: 'true'
   upload_action-gh-release: 'false'
   SETUP: 'true'
