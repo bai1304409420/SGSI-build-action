@@ -7,7 +7,7 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: https://p-def4.pcloud.com/cfZAvMxvCZzEbGWAZSO3iZZ23uHc7Z2ZZDJJZZA6GBLkZIHZaFZ5HZ0RZmHZfkZwFZ2LZvpZozZbRZ6zZMFZhLZc32rrPHfpdkuGtuUSYC7pk4yymCV/XT1980-3_FOLE_AMZ_10_QPFS30.130-15-11-23_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.rar
+  ROM_URL: https://p-def4.pcloud.com/cfZAvMxvCZzEbGWAZSO3iZZxcuHc7Z2ZZDJJZZA6GBLkZIHZaFZ5HZ0RZmHZfkZwFZ2LZvpZozZbRZ6zZMFZhLZ4opcLnALR50w3HdrhdY1EfNI2kYX/XT1980-3_FOLE_AMZ_10_QPFS30.130-15-11-23_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.rar
   ZIP_NAME: XT1980-3_FOLES_AMZ_10_QPFS30.130-15-11-19_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.rar
   OS_TYPE: Generic
   BUILD_TYPE: 'ab'
