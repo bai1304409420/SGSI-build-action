@@ -7,7 +7,7 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: https://mirrors.lolinet.com/firmware/moto/foles/official/AMZ/XT1980-3_FOLES_AMZ_10_QPFS30.130-15-11-19_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+  ROM_URL: https://doc-10-6c-docs.googleusercontent.com/docs/securesc/tht8sr6cg7ads4qaqbj1v02jmasjllvv/0q61jo9pio8ustuidjj5pvti1jsirukd/1663824150000/05339394529291309094/05339394529291309094/1xEZXq_9RYlpysfns_qWsVZjaz6H9i3FG?e=download&ax=ALW9-sCCu4NvIH4oJnTXlEWvd5temftpiDJmYOwSxLpftXmQK-il-wJH-QgWswwXnYQvuqvEhCJqiWCr66vdm9pjm4qJ0xRC4RgyqA7M4mpKynes2XZxBiqHsIiWvtIx8AYMAMUH730qkyNx8V-8doKRW_xyHaensDaaSo4O6xBAmIqydo5uhxXI1Cz37L0-TsNVNKY4Giezd8-doYw44gNXmCy6jjB4IGYYyGwlTvQD6JGQuG6IGnRoJ8FC6SmvECfwWa4-rEwRfzuL9JvWCNDX6ebv9v9znVGHtYszO_2krirSMAeFqtvOUibNW1clAp8tkDwlmRb-6c2gVu0O8008AjerpdAgLgyA5Pm5vcMZU2L5pRbRrlkY59LCbXhjC3loyMs08ayR6OKexkYrqi_Mb2enaSSHke6yowIpPiu4UHnGRvUYbxCU98aQiOaZlXC0LKlLmDtSIM188TXIEX9FAQIQtcZosCKrRM3wThuPp1cwIwNthklJG7z-Se-ipXkrHAlS13iTeoerVEuGayfXxOpIyRfs2HjzXvwhVNy_P6RcpN9HA4xJXCnUoC-w6GkceyvW8BgcJXN04T2eMPHMNTLvE8FK4K0fpsKUVp7Jpclv5DPUMfKXD5V58kLxQoOb7WZvcbOZgT91_J2w-qhHRsqjvt_ocFy1zYvxJPPonnl3SE4IdURK8JDhavj9PSdSt8kAVKnmWhRnimge&uuid=234eb538-a753-49d3-ba56-e95427f46230&authuser=0&nonce=qmh0das...
   ZIP_NAME: XT1980-3_FOLES_AMZ_10_QPFS30.130-15-11-19_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
   OS_TYPE: Generic
   BUILD_TYPE: 'ab'
